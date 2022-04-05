@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Demo-Site-Tamar-Miller/static/css/main.483b836c.css",
+    "main.js": "/Demo-Site-Tamar-Miller/static/js/main.a3ecbe6e.js",
+    "static/js/787.5d944677.chunk.js": "/Demo-Site-Tamar-Miller/static/js/787.5d944677.chunk.js",
+    "static/media/IMG_9645.PNG": "/Demo-Site-Tamar-Miller/static/media/IMG_9645.6c2f6624332d894c1037.PNG",
+    "index.html": "/Demo-Site-Tamar-Miller/index.html",
+    "main.483b836c.css.map": "/Demo-Site-Tamar-Miller/static/css/main.483b836c.css.map",
+    "main.a3ecbe6e.js.map": "/Demo-Site-Tamar-Miller/static/js/main.a3ecbe6e.js.map",
+    "787.5d944677.chunk.js.map": "/Demo-Site-Tamar-Miller/static/js/787.5d944677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483b836c.css",
+    "static/js/main.a3ecbe6e.js"
+  ]
+}
